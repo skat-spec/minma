@@ -1,1 +1,1 @@
-worker: bash start.sh
+worker: node server.js && bash start.sh
